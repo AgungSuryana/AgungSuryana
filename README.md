@@ -1,5 +1,3 @@
-# 💫 About Me:
-🎓 Student at Institut Teknologi Nasional.<br>💻 Passionate about backend and frontend development.<br>⚛️ Using React for frontend.<br>🛠️ Working with Laravel or Express.js (Node.js) for backend.<br>🚀 Focused on building efficient and scalable applications.
 
 
 ## 🌐 Socials:
